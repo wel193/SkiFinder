@@ -1,1 +1,2 @@
 # skiFinder
+Web Application
