@@ -1,0 +1,26 @@
+module.exports = [
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619476663/SkiFinder/960x0_uczlff.jpg',
+        filename:'SkiFinder/960x0_uczlff'
+    },
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619476766/SkiFinder/bottom-of-hill1_hhhkwa.jpg',
+        filename:'SkiFinder/bottom-of-hill1_hhhkwa'
+    },
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619472344/SkiFinder/ali-inay-yNaGxHqjOuw-unsplash_n0fcde.jpg',
+        filename:'SkiFinder/ali-inay-yNaGxHqjOuw-unsplash_n0fcde'
+    },
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619472340/SkiFinder/wladislaw-sokolowskij-0vw4InAC-yM-unsplash_tgrxve.jpg',
+        filename:'SkiFinder/wladislaw-sokolowskij-0vw4InAC-yM-unsplash_tgrxve'
+    },
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619472333/SkiFinder/erol-ahmed-d3pTF3r_hwY-unsplash_mbbozm.jpg',
+        filename:'SkiFinder/erol-ahmed-d3pTF3r_hwY-unsplash_mbbozm'
+    },
+    {
+        url:'https://res.cloudinary.com/dxn5a4sas/image/upload/v1619562391/SkiFinder/joshua-earle--87JyMb9ZfU-unsplash_zwg2h0.jpg',
+        filename:'SkiFinder/joshua-earle--87JyMb9ZfU-unsplash_zwg2h0'
+    }
+]
